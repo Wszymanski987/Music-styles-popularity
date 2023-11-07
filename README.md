@@ -23,7 +23,7 @@ Project is created with:
 ##Screnshots
 
 A chart showing the popularity of a selected musical style
-![Music_style_popularity](./Screenshots/ music_styles_popularity.png)
+![Music_style_popularity](./Screenshots/music_styles_popularity.png)
 
 A chart showing popularity of all music styles through years 1960 - 2023
 ![music_styles_popularity](./Screenshots/music_styles_popularity.png)
