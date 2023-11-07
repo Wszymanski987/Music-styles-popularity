@@ -21,6 +21,7 @@ Project is created with:
 - Numpy
 
 ##Screnshots
+
 A chart showing the popularity of a selected musical style
 ![Music_style_popularity](./Screenshots/Music_style_popularity.png)
 
